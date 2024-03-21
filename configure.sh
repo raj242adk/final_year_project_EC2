@@ -27,4 +27,4 @@ echo "
       ProxyPass         /        http://localhost:8501/
       ProxyPassReverse  /        http://localhost:8501/
 
-  </VirtualHost>" > /etc/apache2/sites-available/deploy_attendance_app.conf
+  </VirtualHost>"
