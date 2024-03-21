@@ -1,0 +1,19 @@
+credentials:
+  usernames:
+    Rabindra:
+      email: raj242adk@gmail.com
+      logged_in: False # Will be managed automatically
+      name: Rabindra Adhikari
+      password: abc # Will be hashed automatically
+    James:
+      email: jamestamang@gmail.com
+      logged_in: False # Will be managed automatically
+      name: James Tamang
+      password: def # Will be hashed automatically
+cookie:
+  expiry_days: 30
+  key: 'Raj' # Must be string
+  name: Rabindra
+preauthorized:
+  emails:
+  - melsby@gmail.com

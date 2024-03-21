@@ -1,0 +1,8 @@
+numpy
+pandas
+redis
+opencv-python-headless
+scikit-learn
+streamlit-webrtc
+insightface
+onnxruntime
