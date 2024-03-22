@@ -20,7 +20,7 @@ echo "
           Allow from all
       </Proxy>
 
-      ProxyPass         /_stcore        ws://localhost:8501/_stcore
+      ProxyPass          /_stcore        ws://localhost:8501/_stcore
       ProxyPassReverse  /_stcore        ws://localhost:8501/_stcore
 
       # The order is important here
